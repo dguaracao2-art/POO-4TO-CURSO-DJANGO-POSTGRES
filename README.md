@@ -27,8 +27,9 @@ Semestre: Cuarto Semestre
 
 ## Captura de Ejecución
 
-Agregar aquí la captura de pantalla del servidor Django ejecutándose en:
 
 http://127.0.0.1:8000/
 
-Aqui va la imagen
+<img width="1770" height="1017" alt="Captura de pantalla 2026-06-22 120536" src="https://github.com/user-attachments/assets/716da128-b3c1-41e6-aeb2-35b3663e44cb" />
+
+
